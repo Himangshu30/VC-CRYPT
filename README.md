@@ -1,4 +1,4 @@
-Python script for encrypting secret credentials for version control
+#Python script for encrypting secret credentials for version control
 This is a simple python script that can be used to encrypt/decrypt secret credentials (API secret keys, HTTP passwords, etc.) using a password to be able to safely put them under version control. It doesn't have any dependancies beyond python standard library.
 
 Why should you use this?
