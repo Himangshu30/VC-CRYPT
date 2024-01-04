@@ -19,7 +19,7 @@ These are local override config files, any variable in these files will override
 
 How to use
 To use this demo
-Clone this repo git clone https://github.com/drdrsh/vc-crypt.git
+Clone this repo git clone https://github.com/Himangshu30/VC-CRYPT
 Run python cred.py decrypt and use password dummy_password.
 Run python cred.py concat to generate .env file.
 To modify secret params, edit your env.secret and run python cred.py encrypt again.
